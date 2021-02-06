@@ -1,0 +1,5 @@
+print("Enter a number")
+num1 = input()
+print("Now, enter a number you'd like to multiply " + num1 + " by")
+num2 = input()
+print(num1 + " times " + num2 " equals " (num1 * num2))
